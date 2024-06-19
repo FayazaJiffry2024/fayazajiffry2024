@@ -42,8 +42,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/FayazaJiffry2024/github-readme-activity-graph"><img alt="Fayaza Jiffry's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=FayazaJiffry2024&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
