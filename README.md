@@ -1,5 +1,3 @@
-<a href="#"><p align="center"><img width="40%"  src="https://content.techgig.com/thumb/msid-75430401,width-860,resizemode-4/5-tips-for-students-to-improve-coding-skills-during-college.jpg?58220" height="auto"/><p></a>
-
 <h1 align="center">Hi <span class="wave" >👋</span> , I'm Fayazaq Jiffry</h1>
 <h3 align="center">Software Engineerning Undergraduate</h3>
 
