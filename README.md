@@ -1,4 +1,4 @@
-<h1 align="center">Hi <span class="wave" >👋</span> , I'm Fayazaq Jiffry</h1>
+<h1 align="center">Hi <span class="wave" >👋</span> , I'm Fayaza Jiffry</h1>
 <h3 align="center">Software Engineerning Undergraduate</h3>
 
 
