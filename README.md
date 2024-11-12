@@ -1,61 +1,45 @@
-<h1 align="center">Hi <span class="wave" >👋</span> , I'm Fayaza Jiffry</h1>
-<h3 align="center">Software Engineerning Undergraduate</h3>
+💫 Hi there, I'm Mohamed Jiffry Fathima Fayaza! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+🚀 About Me
+🎓 I’m a 2nd year Software Engineering student at IIT, University of Westminster.
+🎨 Also, I’m a passionate graphic designer who loves to bring creative ideas to life.
+💻 I enjoy coding, problem-solving, and designing with a creative flair.
+🧠 Currently diving deep into Java OOP, Angular, and Spring Boot to level up my skills.
+🛠️ My Tech Toolbox
+Languages: Python, Java, HTML, CSS, JavaScript, SQL
+Frameworks & Libraries: Angular, Spring Boot, Tkinter
+Tools: Figma, Git, JSON
+Currently Learning: Java OOP, Angular, Spring Boot
+🌟 Featured Projects
+🎲 Dice Game (Python)
 
+A fun, interactive dice game developed using Python, showcasing my understanding of loops and conditionals.
+Repository Link (Add link here)
+💼 Fertilizer App Design (Figma)
 
-## 🙋‍♀️ About Me
+A group project where I led the design of a user-friendly fertilizer app using Figma.
+Design Showcase (Add link here)
+💰 Personal Finance Tracker (Python & JSON)
 
-- 🔭 I’m currently learning **Java**
+A Python application to track and manage personal finances effectively, utilizing JSON for data storage.
+Repository Link (Add link here)
+🏫 Student Management System (Java & Tkinter)
 
-- 📫 How to reach me **fayazafay.2024@gmail.com**
-  
+A desktop application to manage student data, built with Java and Tkinter.
+Repository Link (Add link here)
+🌊 Life Below Water - Animation Splash Screen & Shop Page (SDG Project)
 
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>     
-</p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
-
-<p align="center">
-    <a href="https://github.com/Breadcrumbsfayazajiffry2024/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Breadcrumbsfayazajiffry's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FayazaJiffry2024&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/FayazaJiffry2024/github-readme-stats"><img alt="Faayaz Jiffry's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FayazaJiffry2024&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/FayazaJiffry2024/github-readme-stats"><img alt="Fayaza Jiffry's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FayazaJiffry2024&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<br/>
-<br/>
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/fayaza-mjf/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
-
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/FayazaJiffry2024/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=FayazaJiffry2024">
-</a>
-<a href="https://github.com/FayazaJiffry2024?tab=followers"><img src="https://img.shields.io/github/followers/FayazaJiffry2024?label=Followers&style=social" alt="GitHub Badge"></a>
+A creative group project focused on sustainable development goals, where I designed an engaging splash screen and shop page animation.
+Project Showcase (Add link here)
+💡 Fun Facts About Me
+🎨 When I’m not coding, you can find me sketching or working on new design ideas.
+💪 I love solving coding challenges and taking part in hackathons.
+📺 Big fan of K-dramas and always up for sharing new recommendations!
+📬 Let's Connect
+Email: fayazafy.2024@gmail.com
+LinkedIn: Fayaza MJF
+GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fayazamjf&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=fayazamjf&theme=radical" alt="GitHub Streak"> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fayazamjf&theme=radical&no-frame=true&column=3"> </p>
+📊 GitHub Activity Graph
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=fayazamjf&theme=react-dark"> </p>
