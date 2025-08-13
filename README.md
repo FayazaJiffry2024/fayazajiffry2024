@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff6600;">Fayaz Ajiffry</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff6600;">Fayaza Jiffry</span></h1>
 <h3 align="center">💻 Software Engineering Undergraduate | 🚀 Problem Solver | 🎨 Creative Coder</h3>
 
 ---
