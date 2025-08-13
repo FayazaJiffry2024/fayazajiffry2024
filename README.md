@@ -26,12 +26,6 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
   <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="150" alt="Azure AI Fundamentals Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/certificates/java-9d05b1f559" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/badges/java-9d05b1f559.svg" width="120" alt="Hackerrank Java Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/certificates/python-f70befd824" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/badges/python-f70befd824.svg" width="120" alt="Hackerrank Python Badge"/>
-  </a>
 </p>
 
 **Competitions:** IEEEXtreme 18.0, Problem Solving Hackathon, Hult Prize  
