@@ -1,14 +1,24 @@
-### 👋 About Me
-I am a **Software Engineering undergraduate** with a creative eye and a code-driven mindset.  
-Started in **graphic design** 🎨 using Adobe Suite, Figma & Canva, then moved into **full-stack development** 💻.  
-
-I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and building **impactful, beautifully designed solutions**.  
-
->  "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
+<!-- Header Section -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff6600;">Fayaz Ajiffry</span></h1>
+<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Problem Solver | 🎨 Creative Coder</h3>
 
 ---
 
-### 🛠 Tech Stack
+<!-- About Me -->
+### 🌟 About Me  
+<p align="justify">
+I am a <b>Software Engineering undergraduate</b> with a creative eye and a code-driven mindset.  
+I started in <b>graphic design</b> 🎨 using Adobe Suite, Figma & Canva, then moved into <b>full-stack development</b> 💻.  
+
+I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and building <b>impactful, beautifully designed solutions</b>.
+</p>
+
+> 🧠✨ <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i> — Martin Fowler
+
+---
+
+<!-- Tech Stack -->
+### 🛠 Tech Stack  
 
 | Programming | Web | Backend / DB | DevOps | ML / AI | UI / UX |
 |------------|-----|--------------|--------|---------|--------|
@@ -18,7 +28,8 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 
 ---
 
-### 🏆 Achievements
+<!-- Achievements -->
+### 🏆 Achievements  
 
 <p align="center">
   <!-- Microsoft AI-900 Badge -->
@@ -27,26 +38,27 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
   </a>
 </p>
 
-#### 🏁 Competitions
+#### 🏁 Competitions  
 <p align="center">
   <img src="https://img.shields.io/badge/IEEEXtreme-18.0-blue?style=for-the-badge&logo=ieee" alt="IEEEXtreme Badge" />
   <img src="https://img.shields.io/badge/Problem_Solving_Hackathon-green?style=for-the-badge&logo=hackerrank" alt="Problem Solving Hackathon" />
   <img src="https://img.shields.io/badge/Hult_Prize-purple?style=for-the-badge&logo=hult-prize" alt="Hult Prize" />
 </p>
 
-#### 📜 Certifications / Courses
+#### 📜 Certifications / Courses  
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning" />
-  <strong>LinkedIn Learning:</strong> DevOps Foundation, Machine Learning, Java OOP  
+  <b>LinkedIn Learning:</b> DevOps Foundation, Machine Learning, Java OOP  
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Udemy-red?style=for-the-badge&logo=udemy" alt="Udemy" />
-  <strong>Udemy:</strong> Project Management, CSS/JS/PHP, Python, HTML, React, Java
+  <b>Udemy:</b> Project Management, CSS/JS/PHP, Python, HTML, React, Java
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<!-- GitHub Stats -->
+### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fayazajiffry&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fayazajiffry&layout=compact&theme=radical" height="150"/>
@@ -55,5 +67,8 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 
 ---
 
-### 🐞 Bug-Free Motivation
-> 💻🐞 "I don’t chase bugs. Bugs chase me."
+<!-- Fun Dev Quote -->
+### 🐞 Bug-Free Motivation  
+<p align="center">
+  💻🐞 <b>"I don’t chase bugs. Bugs chase me."</b>
+</p>
