@@ -30,15 +30,15 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
   </a>
 </p>
 
+#### 🏁 Competitions
 <p align="center">
-  <!-- Competitions Badges -->
   <img src="https://img.shields.io/badge/IEEEXtreme-18.0-blue?style=for-the-badge&logo=ieee" alt="IEEEXtreme Badge" />
   <img src="https://img.shields.io/badge/Problem_Solving_Hackathon-green?style=for-the-badge&logo=hackerrank" alt="Problem Solving Hackathon" />
   <img src="https://img.shields.io/badge/Hult_Prize-purple?style=for-the-badge&logo=hult-prize" alt="Hult Prize" />
 </p>
 
+#### 📜 Certifications / Courses
 <p align="center">
-  <!-- Certificates / Courses Badges -->
   <img src="https://img.shields.io/badge/LinkedIn_DevOps_Foundation-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning DevOps" />
   <img src="https://img.shields.io/badge/LinkedIn_ML-orange?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning ML" />
   <img src="https://img.shields.io/badge/LinkedIn_Java_OOP-red?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning Java OOP" />
