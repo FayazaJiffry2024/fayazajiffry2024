@@ -22,14 +22,32 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 ---
 
 ### 🏆 Achievements
+
 <p align="center">
+  <!-- Microsoft AI-900 Badge -->
   <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="150" alt="Azure AI Fundamentals Badge"/>
   </a>
 </p>
 
-**Competitions:** IEEEXtreme 18.0, Problem Solving Hackathon, Hult Prize  
-**Certificates / Courses:** LinkedIn Learning (DevOps Foundation, Machine Learning, Java OOP), Udemy (Project Management, CSS/JS/PHP, Python, HTML, React, Java)
+<p align="center">
+  <!-- Competitions Badges -->
+  <img src="https://img.shields.io/badge/IEEEXtreme-18.0-blue?style=for-the-badge&logo=ieee" alt="IEEEXtreme Badge" />
+  <img src="https://img.shields.io/badge/Problem_Solving_Hackathon-green?style=for-the-badge&logo=hackerrank" alt="Problem Solving Hackathon" />
+  <img src="https://img.shields.io/badge/Hult_Prize-purple?style=for-the-badge&logo=hult-prize" alt="Hult Prize" />
+</p>
+
+<p align="center">
+  <!-- Certificates / Courses Badges -->
+  <img src="https://img.shields.io/badge/LinkedIn_DevOps_Foundation-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning DevOps" />
+  <img src="https://img.shields.io/badge/LinkedIn_ML-orange?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning ML" />
+  <img src="https://img.shields.io/badge/LinkedIn_Java_OOP-red?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning Java OOP" />
+  <img src="https://img.shields.io/badge/Udemy-React-yellow?style=for-the-badge&logo=udemy" alt="Udemy React" />
+  <img src="https://img.shields.io/badge/Udemy-Python-blue?style=for-the-badge&logo=python" alt="Udemy Python" />
+  <img src="https://img.shields.io/badge/Udemy-JS-orange?style=for-the-badge&logo=javascript" alt="Udemy JS" />
+  <img src="https://img.shields.io/badge/Udemy-HTML_CSS-red?style=for-the-badge&logo=html5" alt="Udemy HTML & CSS" />
+  <img src="https://img.shields.io/badge/Udemy-Project_Management-green?style=for-the-badge&logo=trello" alt="Udemy Project Management" />
+</p>
 
 ---
 
