@@ -23,7 +23,7 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 
 ### 🏆 Achievements
 <p align="center">
-  [![Azure AI Fundamentals](https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url)
+  [![Azure AI Fundamentals](https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)
 </p>
 
 **Competitions:** IEEEXtreme 18.0, Problem Solving Hackathon, Hult Prize  
