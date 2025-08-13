@@ -1,7 +1,3 @@
-<p align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&lines=Hi!+I'm+Fayaza+Jiffry;Software+Engineering+Undergraduate;Full-Stack+Developer)](https://git.io/typing-svg)
-</p>
-
 ---
 
 ### 👋 About Me
