@@ -49,14 +49,6 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 
 ---
 
-### ⭐ Featured Projects
-<p align="center">
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FayazaJiffry-blue?style=for-the-badge)](https://github.com/fayazajiffry/portfolio)  
-  [![ProjectName](https://img.shields.io/badge/ProjectName-FullStack-green?style=for-the-badge)](https://github.com/fayazajiffry/projectname)
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fayazajiffry&show_icons=true&theme=radical" height="150"/>
