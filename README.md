@@ -39,14 +39,12 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 
 #### 📜 Certifications / Courses
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn_DevOps_Foundation-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning DevOps" />
-  <img src="https://img.shields.io/badge/LinkedIn_ML-orange?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning ML" />
-  <img src="https://img.shields.io/badge/LinkedIn_Java_OOP-red?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning Java OOP" />
-  <img src="https://img.shields.io/badge/Udemy-React-yellow?style=for-the-badge&logo=udemy" alt="Udemy React" />
-  <img src="https://img.shields.io/badge/Udemy-Python-blue?style=for-the-badge&logo=python" alt="Udemy Python" />
-  <img src="https://img.shields.io/badge/Udemy-JS-orange?style=for-the-badge&logo=javascript" alt="Udemy JS" />
-  <img src="https://img.shields.io/badge/Udemy-HTML_CSS-red?style=for-the-badge&logo=html5" alt="Udemy HTML & CSS" />
-  <img src="https://img.shields.io/badge/Udemy-Project_Management-green?style=for-the-badge&logo=trello" alt="Udemy Project Management" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Learning" />
+  <strong>LinkedIn Learning:</strong> DevOps Foundation, Machine Learning, Java OOP  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Udemy-red?style=for-the-badge&logo=udemy" alt="Udemy" />
+  <strong>Udemy:</strong> Project Management, CSS/JS/PHP, Python, HTML, React, Java
 </p>
 
 ---
