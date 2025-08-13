@@ -4,7 +4,7 @@ Started in **graphic design** 🎨 using Adobe Suite, Figma & Canva, then moved 
 
 I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and building **impactful, beautifully designed solutions**.  
 
-> "Great code is poetry written in logic."
+>  "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
 
 ---
 
@@ -55,5 +55,5 @@ I enjoy **solving algorithmic challenges**, exploring **AI/ML & NLP**, and build
 
 ---
 
-### 🎯 Quote of the Day
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
+### 🐞 Bug-Free Motivation
+> 💻🐞 "I don’t chase bugs. Bugs chase me."
