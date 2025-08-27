@@ -61,7 +61,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   <b>Udemy:</b> Project Management, CSS/JS/PHP, Python, HTML, React, Java
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle University" />
+  <img src="https://img.shields.io/badge/Oracle-%23FF6600?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle University" />
   <b>Oracle University:</b> Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate  
 </p>
 
