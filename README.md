@@ -34,15 +34,14 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 <p align="center">
   <!-- Microsoft AI-900 Badge -->
   <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="200" height="200" alt="Azure AI Fundamentals Badge"/>
+    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" style="width:200px; height:200px;" alt="Azure AI Fundamentals Badge"/>
   </a>
 
   <!-- Oracle AI Foundations Badge -->
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="200" height="200" alt="Oracle AI Foundations Badge"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:200px; height:200px; object-fit:contain;" alt="Oracle AI Foundations Badge"/>
   </a>
 </p>
-
 
 
 #### 🏁 Competitions  
