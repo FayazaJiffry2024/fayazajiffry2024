@@ -39,7 +39,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
   <!-- Oracle AI Foundations Badge -->
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:300px; height:180px; margin: 10px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:320px; height:180px; margin: 10px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
   </a>
 
   <!-- Blockchain Basics Badge -->
@@ -49,7 +49,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
   <!-- I2CS Badge -->
   <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" style="width:180px; height:180px; margin: 30px;" alt="I2CS Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" style="width:180px; height:180px; margin: 10px;" alt="I2CS Badge"/>
   </a>
 </p>
 
