@@ -34,22 +34,22 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 <p align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
   <!-- Microsoft AI-900 Badge -->
   <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" style="width:180px; height:180px; margin: 0px;" alt="Azure AI Fundamentals Badge"/>
+    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" style="width:180px; height:180px; margin: 10px;" alt="Azure AI Fundamentals Badge"/>
   </a>
 
   <!-- Oracle AI Foundations Badge -->
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:320px; height:180px; margin: 0px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:320px; height:180px; margin: 10px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
   </a>
 
   <!-- Blockchain Basics Badge -->
   <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank">
-    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" style="width:180px; height:180px; margin: 0px;" alt="Blockchain Basics Badge"/>
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" style="width:180px; height:180px; margin: 10px;" alt="Blockchain Basics Badge"/>
   </a>
 
   <!-- I2CS Badge -->
   <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" style="width:180px; height:180px; margin: 0px;" alt="I2CS Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" style="width:180px; height:180px; margin: 10px;" alt="I2CS Badge"/>
   </a>
 </p>
 
