@@ -42,13 +42,20 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
     <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:360px; height:200px; object-fit:contain;" alt="Oracle AI Foundations Badge"/>
   </a>
 
+  <!-- I2CS Badge -->
   <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
-       style="width:200px; height:200px;" 
-       alt="I2CS Badge"/>
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
+         style="width:200px; height:200px;" 
+         alt="I2CS Badge"/>
+  </a>
+
+  <!-- Blockchain Basics Badge -->
+  <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank">
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
+         style="width:200px; height:200px;" 
+         alt="Blockchain Basics Badge"/>
   </a>
 </p>
-
 
 #### 🏁 Competitions  
 <p align="center">
