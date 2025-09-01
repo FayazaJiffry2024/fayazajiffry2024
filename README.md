@@ -30,44 +30,23 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 ### 🏆 Achievements  
 
-<div style="position: relative; width: 500px; height: 500px; margin: auto;">
+<p align="center">
+  <!-- Top Row -->
+  <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="140" alt="Azure AI Fundamentals Badge"/>
+  <img src="https://tryhackme.com/img/badges/firstfour.svg" width="140" alt="TryHackMe First Four Rooms Badge"/>
+</p>
 
-  <!-- Center Badge -->
-  <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" 
-         style="width:140px; height:140px; position: absolute; top:50%; left:50%; transform: translate(-50%, -50%);" 
-         alt="Azure AI Fundamentals Badge"/>
-  </a>
+<p align="center">
+  <!-- Middle Row (Oracle badge bigger) -->
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="200" alt="Oracle AI Foundations Badge"/>
+</p>
 
-  <!-- Top Badge -->
-  <a href="https://tryhackme.com/p/FayazaJiffry" target="_blank">
-    <img src="https://tryhackme.com/img/badges/firstfour.svg" 
-         style="width:140px; height:140px; position: absolute; top:0%; left:50%; transform: translate(-50%, 0);" 
-         alt="TryHackMe First Four Rooms Badge"/>
-  </a>
+<p align="center">
+  <!-- Bottom Row -->
+  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" width="140" alt="Blockchain Basics Badge"/>
+  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="140" alt="I2CS Badge"/>
+</p>
 
-  <!-- Right Badge -->
-  <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" 
-         style="width:200px; height:140px; position: absolute; top:50%; left:100%; transform: translate(-100%, -50%);" 
-         alt="Oracle AI Foundations Badge"/>
-  </a>
-
-  <!-- Bottom Badge -->
-  <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank">
-    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
-         style="width:140px; height:140px; position: absolute; top:100%; left:50%; transform: translate(-50%, -100%);" 
-         alt="Blockchain Basics Badge"/>
-  </a>
-
-  <!-- Left Badge -->
-  <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
-         style="width:140px; height:140px; position: absolute; top:50%; left:0%; transform: translate(0, -50%);" 
-         alt="I2CS Badge"/>
-  </a>
-
-</div>
 
 #### 🏁 Competitions  
 <p align="center">
