@@ -30,23 +30,31 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 ### 🏆 Achievements  
 
-<p align="center">
-  <!-- Top Row -->
-  <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="140" alt="Azure AI Fundamentals Badge"/>
-  <img src="https://tryhackme.com/img/badges/firstfour.svg" width="140" alt="TryHackMe First Four Rooms Badge"/>
-</p>
+<div style="position: relative; width: 350px; height: 350px; margin: auto;">
+  <!-- Center Badge -->
+  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" 
+       style="width:120px; height:120px; position:absolute; top:50%; left:50%; transform: translate(-50%, -50%);" 
+       alt="Oracle AI Foundations Badge"/>
 
-<p align="center">
-  <!-- Middle Row (Oracle badge bigger) -->
-  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="200" alt="Oracle AI Foundations Badge"/>
-</p>
+  <!-- Orbit Container -->
+  <div style="position:absolute; top:50%; left:50%; width:250px; height:250px; transform: translate(-50%, -50%); animation: rotate 10s linear infinite;">
+    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" 
+         style="width:80px; height:80px; position:absolute; top:0; left:50%; transform: translateX(-50%);" alt="Azure AI Fundamentals"/>
+    <img src="https://tryhackme.com/img/badges/firstfour.svg" 
+         style="width:80px; height:80px; position:absolute; bottom:0; left:50%; transform: translateX(-50%);" alt="TryHackMe"/>
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
+         style="width:80px; height:80px; position:absolute; top:50%; left:0; transform: translateY(-50%);" alt="Blockchain Basics"/>
+    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
+         style="width:80px; height:80px; position:absolute; top:50%; right:0; transform: translateY(-50%);" alt="I2CS"/>
+  </div>
+</div>
 
-<p align="center">
-  <!-- Bottom Row -->
-  <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" width="140" alt="Blockchain Basics Badge"/>
-  <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="140" alt="I2CS Badge"/>
-</p>
-
+<style>
+@keyframes rotate {
+  from { transform: translate(-50%, -50%) rotate(0deg); }
+  to { transform: translate(-50%, -50%) rotate(360deg); }
+}
+</style>
 
 #### 🏁 Competitions  
 <p align="center">
