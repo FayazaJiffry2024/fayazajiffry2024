@@ -51,6 +51,11 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" style="width:180px; height:180px; margin: 10px;" alt="I2CS Badge"/>
   </a>
+
+  <!-- TryHackMe First Four Rooms Badge -->
+  <a href="https://tryhackme.com/p/FayazaJiffry" target="_blank">
+    <img src="https://tryhackme.com/img/badges/firstfour.svg" style="width:180px; height:180px; margin: 10px;" alt="TryHackMe First Four Rooms Badge"/>
+  </a>
 </p>
 
 #### 🏁 Competitions  
