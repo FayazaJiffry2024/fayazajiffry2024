@@ -42,9 +42,9 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
     <img src="https://tryhackme.com/img/badges/firstfour.svg" style="width:140px; height:140px;" alt="TryHackMe First Four Rooms Badge"/>
   </a>
 
-  <!-- Oracle AI Foundations Badge -->
+  <!-- Oracle AI Foundations Badge (increased width) -->
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:140px; height:140px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:200px; height:140px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
   </a>
 
   <!-- Blockchain Basics Badge -->
