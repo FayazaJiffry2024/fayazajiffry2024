@@ -28,28 +28,36 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 ---
 
-<!-- Achievements: Hexagonal Badge Layout -->
-<div style="position: relative; width: 500px; height: 350px; margin: 0 auto;">
-  <!-- Top Row -->
-  <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank" style="position: absolute; top: 0; left: 25%;">
-    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" style="width:140px; height:140px;" alt="Azure AI Fundamentals Badge"/>
-  </a>
-  <a href="https://tryhackme.com/p/FayazaJiffry" target="_blank" style="position: absolute; top: 0; right: 25%;">
-    <img src="https://tryhackme.com/img/badges/firstfour.svg" style="width:140px; height:140px;" alt="TryHackMe First Four Rooms Badge"/>
-  </a>
+<!-- Hexagonal Badge Layout for GitHub README -->
+<div align="center" style="display: inline-block;">
 
-  <!-- Center Badge -->
-  <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank" style="position: absolute; top: 50px; left: 50%; transform: translateX(-50%);">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" style="width:200px; height:140px; object-fit: contain;" alt="Oracle AI Foundations Badge"/>
-  </a>
+  <!-- Top Row: 2 badges -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: -30px;">
+    <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
+      <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="120" height="120" alt="Azure AI Fundamentals"/>
+    </a>
+    <a href="https://tryhackme.com/p/FayazaJiffry" target="_blank">
+      <img src="https://tryhackme.com/img/badges/firstfour.svg" width="120" height="120" alt="TryHackMe"/>
+    </a>
+  </div>
 
-  <!-- Bottom Row -->
-  <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank" style="position: absolute; bottom: 0; left: 20%;">
-    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" style="width:140px; height:140px;" alt="Blockchain Basics Badge"/>
-  </a>
-  <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank" style="position: absolute; bottom: 0; right: 20%;">
-    <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" style="width:140px; height:140px;" alt="I2CS Badge"/>
-  </a>
+  <!-- Center Row: 1 badge -->
+  <div style="margin-bottom: -30px;">
+    <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
+      <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="160" height="120" alt="Oracle AI Foundations"/>
+    </a>
+  </div>
+
+  <!-- Bottom Row: 2 badges -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank">
+      <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" width="120" height="120" alt="Blockchain"/>
+    </a>
+    <a href="https://www.credly.com/badges/your-badge-link-here" target="_blank">
+      <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="120" height="120" alt="I2CS"/>
+    </a>
+  </div>
+
 </div>
 
 #### 🏁 Competitions  
