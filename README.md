@@ -28,7 +28,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 ---
 
-<!-- All Badges in a Single Line -->
+<!-- All Badges in a Single Line (Oracle badge fixed) -->
 <p align="center">
   <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" width="100" height="100" alt="Azure AI Fundamentals"/>
@@ -39,7 +39,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   </a>
   &nbsp;&nbsp;
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="100" height="100" alt="Oracle AI Foundations"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="120" height="auto" alt="Oracle AI Foundations"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank">
