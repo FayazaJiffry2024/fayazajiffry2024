@@ -38,8 +38,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <!-- reduced width to 90 to compensate internal padding -->
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="90" height="100" alt="Oracle AI Foundations"/>
+    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" width="120" height="100" alt="Oracle AI Foundations"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/badges/your-blockchain-badge-link-here" target="_blank">
