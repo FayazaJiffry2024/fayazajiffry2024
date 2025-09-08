@@ -59,13 +59,12 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Old Badge"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Test Badge -->
+  <!-- Skillsoft Badge -->
   <a href="https://skillsoft.digitalbadges.skillsoft.com/4bcaf481-feb5-4aa0-a71a-2a29d036336d#acc.1bozeLa3" target="_blank">
-    <img src="https://www.gstatic.com/recaptcha/api2/logo_48.png" 
+    <img src="https://i.ibb.co/F4045jds/skillsoft-badge.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Skillsoft Badge"/>
   </a>
 </p>
-
 
 ---
 
