@@ -56,9 +56,16 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" 
-         width="100" height="100" style="object-fit: contain; display:inline-block;" alt="New Badge"/>
+         width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Old Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- New Skillsoft Badge -->
+  <a href="https://skillsoft.digitalbadges.skillsoft.com/4bcaf481-feb5-4aa0-a71a-2a29d036336d#acc.1bozeLa3" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/4bcaf481-feb5-4aa0-a71a-2a29d036336d.png" 
+         width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Skillsoft Badge"/>
   </a>
 </p>
+
 
 ---
 
