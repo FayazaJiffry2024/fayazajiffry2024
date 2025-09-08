@@ -40,8 +40,8 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" 
-         width="180" height="100" style="object-fit: contain; display:inline-block;" alt="Oracle AI Foundations"/>
+    <img src="https://i.ibb.co/qLmkBgBH/oracle-badge.png" 
+         width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Oracle AI Foundations"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" target="_blank">
