@@ -27,8 +27,9 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 ---
 
-<!-- All Badges in a Single Line -->
+<!-- All Badges in Two Rows -->
 <p align="center">
+  <!-- Row 1 -->
   <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Azure AI Fundamentals"/>
@@ -48,7 +49,10 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
     <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Blockchain"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
   <a href="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="I2CS"/>
@@ -59,13 +63,11 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Old Badge"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- Skillsoft Badge -->
   <a href="https://skillsoft.digitalbadges.skillsoft.com/4bcaf481-feb5-4aa0-a71a-2a29d036336d#acc.1bozeLa3" target="_blank">
     <img src="https://i.ibb.co/F4045jds/skillsoft-badge.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Skillsoft Badge"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <!-- New Credly Badge -->
   <a href="https://www.credly.com/badges/e9ed659b-60eb-4cb6-b17b-7d75ca137f45" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="New Credly Badge"/>
