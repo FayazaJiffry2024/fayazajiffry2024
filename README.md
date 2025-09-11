@@ -64,6 +64,12 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
     <img src="https://i.ibb.co/F4045jds/skillsoft-badge.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Skillsoft Badge"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- New Credly Badge -->
+  <a href="https://www.credly.com/badges/e9ed659b-60eb-4cb6-b17b-7d75ca137f45" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob" 
+         width="100" height="100" style="object-fit: contain; display:inline-block;" alt="New Credly Badge"/>
+  </a>
 </p>
 
 ---
