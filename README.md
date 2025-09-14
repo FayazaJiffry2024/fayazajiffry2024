@@ -42,7 +42,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://files.fm/u/hc6qsz48ay" target="_blank">
     <img src="https://i.postimg.cc/T2LSd4Pq/OCI25-AICFAV1.png" 
-         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Oracle AI Foundations"/>
+         width="170" height="170" style="object-fit: contain; display:inline-block;" alt="Oracle AI Foundations"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" target="_blank">
