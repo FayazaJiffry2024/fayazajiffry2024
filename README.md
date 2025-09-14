@@ -41,7 +41,7 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" target="_blank">
-    <img src="https://i.ibb.co/qLmkBgBH/oracle-badge.png" 
+    <img src="https://i.ibb.co/W45DzPxB/oracle-badge.png" 
          width="100" height="100" style="object-fit: contain; display:inline-block;" alt="Oracle AI Foundations"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
