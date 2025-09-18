@@ -53,6 +53,11 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 <p align="center">
   <!-- Row 2 -->
+  <a href="https://www.credly.com/badges/161037a9-57fb-4021-9e6e-1ada20bdec29" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/161037a9-57fb-4021-9e6e-1ada20bdec29/blob" 
+         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="New Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" 
          width="120" height="120" style="object-fit: contain; display:inline-block;" alt="I2CS"/>
