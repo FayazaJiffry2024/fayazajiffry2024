@@ -27,6 +27,30 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
 
 ---
 
+<!-- All Badges in Two Rows -->
+<p align="center">
+  <!-- Row 1 -->
+  <a href="https://www.credly.com/badges/d886f9bd-7c0f-4b16-9e06-547c909a7ce1/public_url" target="_blank">
+    <img src="https://images.credly.com/size/220x220/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" 
+         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Azure AI Fundamentals"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tryhackme.com/p/FayazaJiffry" target="_blank">
+    <img src="https://tryhackme.com/img/badges/firstfour.svg" 
+         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="TryHackMe"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://files.fm/u/hc6qsz48ay" target="_blank">
+    <img src="https://i.ibb.co/qLmkBgBH/OCI25-AICFAV1.png" 
+         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Oracle AI Foundations"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" target="_blank">
+    <img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto/q_auto/v1748556702/assets/blockchain-basics-badge.png" 
+         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Blockchain"/>
+  </a>
+</p>
+
 <p align="center">
   <!-- Row 2 -->
   <a href="https://www.credly.com/badges/161037a9-57fb-4021-9e6e-1ada20bdec29" target="_blank">
@@ -47,16 +71,6 @@ I enjoy <b>solving algorithmic challenges</b>, exploring <b>AI/ML & NLP</b>, and
   <a href="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" target="_blank">
     <img src="https://images.credly.com/size/220x220/images/f9f3c533-9b5a-47eb-8a3e-5734663116c0/image.png" 
          width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Old Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://skillsoft.digitalbadges.skillsoft.com/4bcaf481-feb5-4aa0-a71a-2a29d036336d#acc.1bozeLa3" target="_blank">
-    <img src="https://i.ibb.co/F4045jds/skillsoft-badge.png" 
-         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Skillsoft Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/e9ed659b-60eb-4cb6-b17b-7d75ca137f45" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/e9ed659b-60eb-4cb6-b17b-7d75ca137f45/blob" 
-         width="120" height="120" style="object-fit: contain; display:inline-block;" alt="Another Credly Badge"/>
   </a>
 </p>
 
